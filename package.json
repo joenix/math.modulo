@@ -1,0 +1,9 @@
+{
+  "name": "math.modulo",
+  "version": "1.0.3",
+  "description": "math.modulo, can be calculated with decimals",
+  "main": "index.js",
+  "author": "joenix",
+  "license": "MIT",
+  "private": false
+}
